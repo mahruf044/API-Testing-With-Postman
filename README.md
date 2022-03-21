@@ -6,7 +6,7 @@
 
 [Restful-Booker Web](https://restful-booker.herokuapp.com/)
 
-The **restful-bookerAPI** file includes:
+The **restful-bookerAPI** folder includes:
 
 1.Documentaion
 
@@ -23,7 +23,7 @@ The **restful-bookerAPI** file includes:
 
 [thetestingworldapi Web](https://thetestingworldapi.com/)
 
-The **theTestingWorldAPI_Postman** file includes:
+The **theTestingWorldAPI_Postman** folder includes:
 
 1.Documentaion
 
