@@ -33,6 +33,6 @@ The **theTestingWorldAPI_Postman** file includes:
 
 4.Report folder in which Report is generated in HTML format with the help of Newman.
 
-## Download and watch the observe to view the overall project's findings and download collection and environment file to run these in Postman
+## Download and  observe to view the overall project's findings and download collection and environment file to run these in Postman
 
 
