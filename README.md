@@ -18,7 +18,7 @@ The **restful-bookerAPI** file includes:
 
 # 2. theTestingWorldAPI_Postman
 
-[Restful-Booker Web](https://thetestingworldapi.com/)
+[thetestingworldapi Web](https://thetestingworldapi.com/)
 
 The **theTestingWorldAPI_Postman** file includes:
 
