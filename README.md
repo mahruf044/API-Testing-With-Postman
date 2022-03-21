@@ -16,7 +16,7 @@ The **restful-bookerAPI** file includes:
 ## Download and observe the report to view the overall project's findings and download collection and environment file to run these in Postman
 
 
-# 1. theTestingWorldAPI_Postman
+# 2. theTestingWorldAPI_Postman
 
 [Restful-Booker Web](https://thetestingworldapi.com/)
 
