@@ -8,7 +8,7 @@
 
 The **restful-bookerAPI** folder includes:
 
-1.Documentaion
+1.Documentaion(pdf)
 
 2.Collection file in json format
 
@@ -16,7 +16,7 @@ The **restful-bookerAPI** folder includes:
 
 4.Report folder in which Report is generated in HTML format with the help of Newman.
 
-## Download and observe the report to view the overall project's findings. You can also download collection and environment file and run these in Postman app by following the documentation's instructions.
+## Download and observe the report(report is in HTML use broweser to open) to view the overall project's findings. You can also download collection and environment file and run these in Postman app by following the documentation's instructions.
 
 
 # 2. theTestingWorldAPI_Postman
@@ -25,7 +25,7 @@ The **restful-bookerAPI** folder includes:
 
 The **theTestingWorldAPI_Postman** folder includes:
 
-1.Documentaion
+1.Documentaion(pdf)
 
 2.Collection file in json format
 
@@ -33,6 +33,6 @@ The **theTestingWorldAPI_Postman** folder includes:
 
 4.Report folder in which Report is generated in HTML format with the help of Newman.
 
-## Download and observe the report to view the overall project's findings. You can also download collection and environment file and run these in Postman app by following the documentation's instructions.
+## Download and observe the report(report is in HTML use broweser to open) to view the overall project's findings. You can also download collection and environment file and run these in Postman app by following the documentation's instructions.
 
 
