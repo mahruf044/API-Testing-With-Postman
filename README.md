@@ -18,6 +18,8 @@ The **restful-bookerAPI** folder includes:
 
 ## Download and observe the report(report is in HTML use broweser to open) to view the overall project's findings. You can also download collection and environment file and run these in Postman app by following the documentation's instructions.
 
+# Live Report: [Resful-Booker Report](https://mahruf044.github.io/Restful-Booker-API-Live-Report/) 
+
 
 # 2. theTestingWorldAPI_Postman
 
@@ -34,5 +36,7 @@ The **theTestingWorldAPI_Postman** folder includes:
 4.Report folder in which Report is generated in HTML format with the help of Newman.
 
 ## Download and observe the report(report is in HTML use broweser to open) to view the overall project's findings. You can also download collection and environment file and run these in Postman app by following the documentation's instructions.
+
+# Live Report: [The Testing World API Report] (https://mahruf044.github.io/theTestingWorldAPI/)
 
 
