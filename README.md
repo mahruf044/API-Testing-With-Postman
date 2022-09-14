@@ -37,6 +37,6 @@ The **theTestingWorldAPI_Postman** folder includes:
 
 ## Download and observe the report(report is in HTML use broweser to open) to view the overall project's findings. You can also download collection and environment file and run these in Postman app by following the documentation's instructions.
 
-# Live Report: [The Testing World API Report] (https://mahruf044.github.io/theTestingWorldAPI/)
+# Live Report: [The Testing World API Report](https://mahruf044.github.io/theTestingWorldAPI/)
 
 
